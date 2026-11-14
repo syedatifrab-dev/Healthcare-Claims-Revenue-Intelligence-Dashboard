@@ -10,6 +10,14 @@ The project demonstrates how healthcare claims data can be transformed into acti
 
 It focuses on claim volumes, approved amounts, denial rates, payer performance, and provider specialty trends to support operational efficiency and data-driven decision-making.
 
+## 📸 Dashboard Preview
+
+### 1. Executive Summary
+![executive_summary](Screenshots/executive_summary.png)
+
+### 2. Denial Intelligence
+![Denial Insights](Screenshots/Denial_Insights.png)
+
 ## 🎯 Business Objectives
 
 - Analyze healthcare insurance claim volumes and financial performance.
