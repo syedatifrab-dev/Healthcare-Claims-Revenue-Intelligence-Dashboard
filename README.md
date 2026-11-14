@@ -16,7 +16,7 @@ It focuses on claim volumes, approved amounts, denial rates, payer performance, 
 ![Executive Summary](executive_summary.png)
 
 ### 2. Denial Intelligence
-![Denial Insights](Screenshots/Denial_Insights.png)
+[Denial Insight](Denial_Insight.png)
 
 ## 🎯 Business Objectives
 
